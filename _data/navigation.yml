@@ -1,0 +1,12 @@
+main:
+  - title : Bienvenue
+  children:
+    - title : S'y rendre
+      url: /location
+    - title : Hebergements
+      url: /hebergement
+    - title : Programme
+      url: /programme
+    - title : Contacts
+      url: /contacts
+      
