@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hébergement
-rank: 3
+rank: 2
 ---
 
 ## Hebergement
