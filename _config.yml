@@ -1,5 +1,6 @@
 title: Caroline et Laurent
 description: Toutes les informations sur le mariage de Caroline et Laurent
 remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/img/logo.png
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
