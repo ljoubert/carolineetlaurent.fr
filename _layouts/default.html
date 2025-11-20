@@ -22,16 +22,19 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        {% assign sorted = site.html_pages | sort:"rank" %}
-        {% for item in sorted %}
-          {% if item.path != "index.md" and item.title and item.rank %}
-            <li>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-        
+
+        <ul class="nav-menu">
+          {% assign sorted = site.html_pages | sort:"rank" %}
+          {% for item in sorted %}
+            {% if item.path != "index.md" and item.title and item.rank %}
+              <li>
+                <a href="{{ item.path | replace:'.md','.html' }}" class="{% if item.path == page.path %}active{% endif %}">
+                  {{ item.title }}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
 
       </header>
       <section>
