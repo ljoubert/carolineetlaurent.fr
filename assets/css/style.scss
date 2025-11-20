@@ -2,3 +2,38 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Supprime les puces et les marges par défaut de la liste */
+.nav-menu {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.nav-menu li {
+  margin-bottom: 5px;
+}
+
+/* Style de base des liens du menu */
+.nav-menu li a {
+  display: block;           /* Occupe toute la largeur disponible */
+  padding: 10px 15px;       /* Ajoute de l'espace autour du texte */
+  text-decoration: none;    /* Supprime le soulignement */
+  border-radius: 5px;       /* Arrondit les angles */
+  color: #2e7bcf;           /* Couleur du texte (bleu par défaut) */
+  transition: background 0.3s; /* Transition douce pour l'effet hover */
+}
+
+/* Effet au survol (Hover) */
+.nav-menu li a:hover {
+  background-color: #f0f0f0; /* Gris clair au survol */
+  color: #1a5a9f;            /* Couleur légèrement plus foncée */
+}
+
+/* Style de la page active */
+.nav-menu li a.active {
+  background-color: #eef4ff; /* Fond bleu très pâle pour la page active */
+  color: #2e7bcf;            /* Garde la couleur bleue */
+  font-weight: bold;         /* Met le texte en gras */
+  border-left: 4px solid #2e7bcf; /* Ajoute une barre verticale à gauche pour marquer la sélection */
+}
