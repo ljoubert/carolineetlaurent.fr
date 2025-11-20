@@ -4,6 +4,17 @@ title: Programme
 rank: 3
 ---
 
-## Programme
+## Déroulé
 
-Programme
+Merci de prendre le temps d'être à nos côtés lors de cette journée importante pour nous !
+
+Le jour J : le 22 août 2026
+ * Temps 1
+   * 10h30 : Accueil
+   * 11h15 : Cérémonie laïque
+   * 13h00 : Dejeuner
+ * Temps 2
+   * 15h00 : Jeux
+   * 16h30 : Gouter
+ * Temps 3:
+   * 19h00 : Collation
