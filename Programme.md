@@ -17,4 +17,5 @@ Le jour J : le 22 août 2026
    * 15h00 : Jeux
    * 16h30 : Gouter
  * Temps 3:
-   * 19h00 : Collation
+   * 19h00 : Collation 
+   * 21h00 : soirée dansante
