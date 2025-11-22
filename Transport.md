@@ -6,7 +6,6 @@ rank: 1
 
 ## Transport
 
-Transport
 
 🚗 Pour ceux qui viennent en voiture : mettez le GPS
 
