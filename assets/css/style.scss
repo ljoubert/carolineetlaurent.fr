@@ -16,29 +16,59 @@
 
 /* Style de base des liens du menu */
 .nav-menu li a {
-  display: block;           /* Occupe toute la largeur disponible */
-  padding: 10px 15px;       /* Ajoute de l'espace autour du texte */
-  text-decoration: none;    /* Supprime le soulignement */
-  border-radius: 5px;       /* Arrondit les angles */
-  color: #2e7bcf;           /* Couleur du texte (bleu par défaut) */
-  transition: background 0.3s; /* Transition douce pour l'effet hover */
+  display: block;           
+  padding: 10px 15px;       
+  text-decoration: none;    
+  border-radius: 5px;       
+  color: #2e7bcf;           
+  transition: background 0.3s; 
 }
 
 /* Effet au survol (Hover) */
 .nav-menu li a:hover {
-  background-color: #f0f0f0; /* Gris clair au survol */
-  color: #1a5a9f;            /* Couleur légèrement plus foncée */
+  background-color: #f0f0f0; 
+  color: #1a5a9f;            
 }
 
 /* Style de la page active */
 .nav-menu li a.active {
-  background-color: #eef4ff; /* Fond bleu très pâle pour la page active */
-  color: #2e7bcf;            /* Garde la couleur bleue */
-  font-weight: bold;         /* Met le texte en gras */
-  border-left: 4px solid #2e7bcf; /* Ajoute une barre verticale à gauche pour marquer la sélection */
+  background-color: #eef4ff; 
+  color: #2e7bcf;            
+  font-weight: bold;         
+  border-left: 4px solid #2e7bcf; 
 }
 
 footer {
-  clear: both;       /* Force le footer à passer sous les éléments flottants (menu et contenu) */
+  clear: both;       
   padding-top: 20px; 
+}
+
+/* --- NOUVEAU : Style des drapeaux --- */
+.lang-switch {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  z-index: 1000;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  margin-left: 5px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.lang-switch a:hover {
+  opacity: 1;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .lang-switch {
+    position: static;
+    text-align: right;
+    padding-right: 15px;
+    padding-top: 10px;
+  }
 }
