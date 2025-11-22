@@ -43,32 +43,40 @@ footer {
   padding-top: 20px; 
 }
 
-/* --- NOUVEAU : Style des drapeaux --- */
+/* --- STYLE DES DRAPEAUX --- */
 .lang-switch {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 24px;
-  z-index: 1000;
+  position: absolute; /* Place les drapeaux hors du flux normal */
+  top: 15px;          /* Distance du haut */
+  right: 20px;        /* Distance de la droite */
+  font-size: 28px;    /* Taille des émojis */
+  z-index: 1000;      /* S'assure qu'ils sont au-dessus du reste */
+  line-height: 1;
 }
 
 .lang-switch a {
-  text-decoration: none;
-  margin-left: 5px;
-  opacity: 0.7;
-  transition: opacity 0.2s;
+  text-decoration: none !important; /* Enlève le soulignement bleu */
+  margin-left: 8px;      /* Espace entre les drapeaux */
+  opacity: 0.6;          /* Légèrement transparent par défaut */
+  transition: opacity 0.2s, transform 0.2s;
+  display: inline-block;
+  border: none;          /* Sécurité supplémentaire */
 }
 
 .lang-switch a:hover {
-  opacity: 1;
+  opacity: 1;            /* Pleinement visible au survol */
+  transform: scale(1.2); /* Léger grossissement au survol */
+  background: none;      /* Pas de fond gris au survol */
 }
 
-/* Mobile */
-@media (max-width: 600px) {
+/* Ajustement pour mobile (écrans < 800px) */
+@media (max-width: 800px) {
   .lang-switch {
-    position: static;
-    text-align: right;
-    padding-right: 15px;
-    padding-top: 10px;
+    position: relative; /* Remet les drapeaux dans le flux normal */
+    top: auto;
+    right: auto;
+    text-align: center; /* Centre les drapeaux */
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px 0;
   }
 }
