@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Programme
+title: Déroulé
 rank: 3
 ---
 
