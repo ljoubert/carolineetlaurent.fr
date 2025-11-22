@@ -6,4 +6,14 @@ rank: 2
 
 ## Hebergement
 
-Hebergement
+Il existe quelques hôtels, gîtes, locations ou camping dans la région. 
+Voici les villes et villages les plus proches de Saint-Marc à Loubaud : 
+ * Vallière (10 min de voiture) 
+ * Royère de Vassivière (20 min de voiture) 
+ * Aubusson (30 min de voiture) 
+
+
+🏕️ **Campings**
+Pour ceux qui souhaitent planter la tente, le camping municipal de Saint-Marc se situe à 5 min du Patural, au bord du lac de Lavaud-Gelade. 
+D'autres campings se trouvent du côté de Royère-Vassivière.
+
