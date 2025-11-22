@@ -14,6 +14,7 @@ Voici les villes et villages les plus proches de Saint-Marc à Loubaud :
 
 
 🏕️ **Campings**
+
 Pour ceux qui souhaitent planter la tente, le camping municipal de Saint-Marc se situe à 5 min du Patural, au bord du lac de Lavaud-Gelade. 
 D'autres campings se trouvent du côté de Royère-Vassivière.
 
