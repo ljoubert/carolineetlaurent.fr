@@ -37,3 +37,8 @@
   font-weight: bold;         /* Met le texte en gras */
   border-left: 4px solid #2e7bcf; /* Ajoute une barre verticale à gauche pour marquer la sélection */
 }
+
+footer {
+  clear: both;       /* Force le footer à passer sous les éléments flottants (menu et contenu) */
+  padding-top: 20px; 
+}
