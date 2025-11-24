@@ -6,7 +6,7 @@ lang: fr
 permalink: /
 ---
 
-# carolineetlaurent.fr
+# Bienvenue
 
 Bienvenue et rendez-vous le 22 aout 2026
 
