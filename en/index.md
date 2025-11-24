@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Welcome
 rank: 0
 lang: en
 permalink: /en/
