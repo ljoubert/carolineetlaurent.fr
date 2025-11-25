@@ -30,6 +30,8 @@ Voici une courte sélection d'hôtels dans les villages ci-dessus :
 
 Pour ceux qui souhaitent planter la tente, le camping municipal de Saint-Marc se situe à 5 min du Patural, au bord du lac de Lavaud-Gelade. 
 D'autres campings se trouvent du côté de Royère-Vassivière.
+ *Camping de La Vaud Gelade : aire naturelle des Pondauds : https://www.tourisme-creuse.com/offres/aire-naturelle-de-camping-les-pondauds-saint-marc-a-loubaud-saint-marc-a-loubaud-fr-2161803/
+ *Aire d'accueil des camping-cars à Royère de Vassière (derrière l'église)
 
 
 Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, voici le lien vers l'office de tourisme de la Creuse : https://www.tourisme-creuse.com/
