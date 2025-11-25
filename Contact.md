@@ -6,4 +6,8 @@ rank: 5
 
 ## Contacts
 
-Voici commment nous joindre
+Vous avez encore des questions ou souhaitez prendre contact ?
+* Laurent
+* Caroline
+
+Merci beaucoup !
