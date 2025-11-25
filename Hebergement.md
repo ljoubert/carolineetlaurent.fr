@@ -18,6 +18,13 @@ Nous vous conseillons de ne pas tarder à réserver...
  * Aubusson (30 min de voiture) 
  * Guéret (50 min de voiture, préfecture de la Creuse)
 
+🏨 **Hôtels**
+
+Voici une courte sélection d'hôtels dans les villages ci-dessus :
+ * Villa Vallière Bed & Breakfast
+ * 
+
+
 🏕️ **Campings**
 
 Pour ceux qui souhaitent planter la tente, le camping municipal de Saint-Marc se situe à 5 min du Patural, au bord du lac de Lavaud-Gelade. 
