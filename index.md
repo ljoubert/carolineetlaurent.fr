@@ -8,15 +8,14 @@ permalink: /
 
 # Bienvenue
 
-Bienvenue et rendez-vous le 22 aout 2026
+Nous sommes trop heureux de vous retrouver le 22 août 2026 au Patural 23460 Saint-Marc à Loubaud pour notre fête de mariage.
+
+Vous devriez trouver toutes les réponses à vos questions sur ce site, et si ce n'était pas le cas, n'hésitez pas à nous solliciter.
+
+Nous vous serions reconnaissant de confirmer votre participation à l'aide du formaulaire suivant afin de faciliter l'organisation : 
 
 Hate de vous retrouver !
 
-Localisation : 
-Le Patural 23460 Saint-Marc à Loubaud 
+Caroline & Laurent
 
-Coordonnées géographiques : 45°51'01.6"N 2°00'31.0"E
 
-Coordonnées du parking : 
-
-Nous attendons votre retour via ce formulaire : 
