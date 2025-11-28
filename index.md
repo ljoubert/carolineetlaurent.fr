@@ -14,7 +14,7 @@ Vous devriez trouver toutes les réponses à vos questions sur ce site, et si ce
 
 Nous vous serions reconnaissant de confirmer votre participation avant le 28 février 2026 à l'aide du <a href="https://forms.gle/xSYv2S5hqf6uEAEr5">formulaire suivant</a>, ou en nous faisant parvenir un email aux adresses de contact.
 
-Hate de vous retrouver !
+Nous avons hâte de vous retrouver !
 
 Caroline & Laurent
 
