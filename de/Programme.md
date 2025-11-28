@@ -7,24 +7,24 @@ lang: de
 
 ## Ablauf ⏳
 
-Danke, dass ihr diesen wichtigen Tag mit uns verbringt!
+Hier ist das vorläufige Programm der Feier.
 
-### 🎉 **Der große Tag**: Samstag, 22. August 2026
+### **Der große Tag**: Samstag, 22. August 2026
 
-**❤️ Zeremonie & Mittagessen**
- * 👋 **10:30**: Empfang
- * 💍 **11:15**: Freie Trauung
- * 🥂 **13:00**: Mittagessen
+**Zeremonie & Mittagessen**
+ * 👋 **10:30 Uhr**: Empfang
+ * 💍 **11:15 Uhr**: Freie Trauung
+ * 🥂 **13:00 Uhr**: Mittagessen
 
-**🎲 Entspannter Nachmittag**
- * 🎳 **15:00**: Spiele
- * 🍰 **16:30**: Kaffee & Kuchen
+**Entspannter Nachmittag**
+ * 🎳 **15:30 Uhr**: Spiele
+ * 🍰 **16:30 Uhr**: Nachmittagssnack (Goûter)
 
-**💃 Abend**
- * 🥨 **19:00**: Abendimbiss
- * 🎶 **21:00**: Tanzabend
+**Abend**
+ * 🥨 **19:00 Uhr**: Kleiner Imbiss
+ * 🎶 **21:00 Uhr**: Tanzabend
 
 ---
 
-### ☕ **Der Tag danach**: Sonntag, 23. August 2026
- * 🥐 **Ab 10:00 Uhr**: Brunch
+### **Der Tag danach**: Sonntag, 23. August 2026
+ * 🥐 **Ab 11:00 Uhr**: Brunch
