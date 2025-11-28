@@ -8,8 +8,12 @@ permalink: /cn/
 
 # 欢迎
 
-2026年8月22日见！
-期待与您相聚！
+我们非常高兴能于 2026 年 8 月 22 日在 Le Patural (23460 Saint-Marc à Loubaud) 与您相聚，共同庆祝我们的婚礼。
 
-**地点:** Le Patural 23460 Saint-Marc à Loubaud  
-**坐标:** 45°51'01.6"N 2°00'31.0"E
+您应该可以在本网站上找到所有问题的答案。如果找不到，请随时联系我们。
+
+如果您能在 2026 年 2 月 28 日之前通过<a href="https://forms.gle/xSYv2S5hqf6uEAEr5">以下表格</a>或通过电子邮件向我们确认您的出席，我们将不胜感激。
+
+我们期待着与您相见！
+
+Caroline & Laurent
