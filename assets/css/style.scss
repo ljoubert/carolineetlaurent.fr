@@ -80,3 +80,8 @@ footer {
     padding: 10px 0;
   }
 }
+
+/* Protection anti-spam pour les emails */
+.nospam {
+  display: none;
+}
