@@ -13,11 +13,11 @@ Nous vous conseillons de ne pas tarder à réserver...
 
 🏢 🏡 Voici les villes et villages les plus proches de Saint-Marc à Loubaud : 
  * Vallière (10 min de voiture) 
- * Royère de Vassivière (20 min de voiture) 
+ * Royère de Vassivière (20 min) 
  * Faux-la-Montagne (20 min)
- * Felletin 
- * Aubusson (30 min de voiture) 
- * Guéret (50 min de voiture, préfecture de la Creuse)
+ * Felletin (25 min)
+ * Aubusson (30 min) 
+ * Guéret (50 min, préfecture de la Creuse)
 
 🏨 **Hôtels & Hébergements**
 
