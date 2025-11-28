@@ -6,8 +6,8 @@ rank: 5
 
 ## Contacts
 
-Vous avez encore des questions ou souhaitez prendre contact ?
-* Laurent
-* Caroline
+Vous avez des questions ou souhaitez prendre contact avec nous ?
+* Laurent : laurent@jou<span class="nospam">RETIRER</span>bert.io
+* Caroline : caroline@jou<span class="nospam">RETIRER</span>bert.io
 
 Merci beaucoup !
