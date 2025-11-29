@@ -25,8 +25,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        {% assign current_lang = page.lang | default: site.default_lang | default: "fr" %}
+        <p>{{ site.descriptions[current_lang] }}</p>
+        
         <ul class="nav-menu">
             {% assign current_lang = page.lang | default: "fr" %}
             {% assign sorted = site.pages | sort:"rank" %}
