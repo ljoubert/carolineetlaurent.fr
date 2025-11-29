@@ -8,3 +8,9 @@ plugins:
 # Configuration des langues
 languages: ["fr", "en", "de", "cn"]
 default_lang: "fr"
+
+descriptions:
+  fr: "Toutes les informations sur le mariage de Caroline et Laurent"
+  en: "All information about Caroline and Laurent's wedding"
+  de: "Alle Informationen über die Hochzeit von Caroline und Laurent"
+  cn: "关于 Caroline 和 Laurent 婚礼的所有信息"
