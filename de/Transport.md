@@ -7,11 +7,11 @@ lang: de
 
 ## Anreise
 
-Hier sind der Ort der Zeremonie und des Empfangs:
+Hier ist der Ort der Zeremonie und des Empfangs:
 * Ort: Le Patural, 23460 Saint-Marc à Loubaud
 * GPS-Koordinaten: 45°51'01.6"N 2°00'31.0"E
 
-🚗 Für diejenigen, die mit dem Auto kommen: Stellt euer GPS mit <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> oder <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a> ein.
+🚗 Für diejenigen, die mit dem Auto kommen: Stellt Euer GPS mit <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> oder <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a> ein.
 
 🚈 Für diejenigen, die mit dem Zug kommen:
  * Bahnhof Limoges: dann Bus bis Aubusson oder Mietwagen
