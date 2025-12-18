@@ -17,3 +17,13 @@ We would be grateful if you could confirm your attendance before February 28, 20
 We can't wait to see you!
 
 Caroline & Laurent
+
+<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
+  ⌛ Only <span id="count-en">?</span> days until the big day!
+</div>
+
+<script>
+  const targetEn = new Date('2026-08-22');
+  const diffEn = Math.ceil((targetEn - new Date()) / (1000 * 60 * 60 * 24));
+  document.getElementById('count-en').innerText = diffEn > 0 ? diffEn : 0;
+</script>
