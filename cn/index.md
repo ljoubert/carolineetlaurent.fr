@@ -17,3 +17,13 @@ permalink: /cn/
 我们期待着与您相见！
 
 Caroline & Laurent
+
+<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
+  ⌛ 距离大喜日子还有 <span id="count-cn">?</span> 天！
+</div>
+
+<script>
+  const targetCn = new Date('2026-08-22');
+  const diffCn = Math.ceil((targetCn - new Date()) / (1000 * 60 * 60 * 24));
+  document.getElementById('count-cn').innerText = diffCn > 0 ? diffCn : 0;
+</script>
