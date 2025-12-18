@@ -14,7 +14,11 @@ Vous devriez trouver toutes les réponses à vos questions sur ce site, et si ce
 
 Nous vous serions reconnaissant de confirmer votre participation avant le 28 février 2026 à l'aide du <a href="https://forms.gle/xSYv2S5hqf6uEAEr5">formulaire suivant</a>, ou en nous faisant parvenir un email aux adresses de contact.
 
-<div style="text-align: center; margin: 30px 0; font-size: 1.3em; font-weight: bold; color: #2e7bcf;">
+Nous avons hâte de vous retrouver !
+
+Caroline & Laurent
+
+<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
   ⌛ Plus que <span id="count-fr">?</span> jours avant le grand jour !
 </div>
 
@@ -24,9 +28,5 @@ Nous vous serions reconnaissant de confirmer votre participation avant le 28 fé
   const diff = Math.ceil((target - today) / (1000 * 60 * 60 * 24));
   document.getElementById('count-fr').innerText = diff > 0 ? diff : 0;
 </script>
-
-Nous avons hâte de vous retrouver !
-
-Caroline & Laurent
 
 
