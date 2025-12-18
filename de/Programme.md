@@ -23,8 +23,3 @@ Hier ist das vorläufige Programm der Feier.
 **Abend**
  * 🥨 **19:00 Uhr**: Kleiner Imbiss (Würste, ...)
  * 🎶 **21:00 Uhr**: Tanzabend
-
----
-
-### **Der Tag danach**: Sonntag, 23. August 2026
- * 🥐 **Ab 11:00 Uhr**: Brunch
