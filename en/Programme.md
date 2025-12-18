@@ -24,7 +24,3 @@ Here is the provisional schedule for the ceremony.
  * 🥨 **7:00 PM**: Light Dinner
  * 🎶 **9:00 PM**: Dance Party
 
----
-
-### **The Day After**: Sunday, August 23, 2026
- * 🥐 **Starting at 11:00 AM**: Brunch
