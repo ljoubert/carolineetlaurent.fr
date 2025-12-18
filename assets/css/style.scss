@@ -84,6 +84,11 @@ footer {
   }
 }
 
+footer {
+    padding-top: 30px;
+    text-align: center; /* Centre le texte sur mobile pour un look plus propre */
+}
+
 /* Protection anti-spam pour les emails */
 .nospam {
   display: none;
