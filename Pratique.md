@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Infos pratiques
-rank: 5
+rank: 4
 ---
 
 ## Informations pratiques
