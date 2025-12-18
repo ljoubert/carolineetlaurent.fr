@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-rank: 6
+rank: 5
 ---
 
 ## Contacts
