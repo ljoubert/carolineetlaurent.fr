@@ -39,8 +39,11 @@
 }
 
 footer {
-  clear: both;       
-  padding-top: 20px; 
+  clear: both;           /* Force le footer à descendre sous tous les éléments flottants (menu et contenu) */
+  padding-top: 40px;     /* Augmente l'espace intérieur au-dessus du texte */
+  margin-top: 50px;      /* Ajoute une marge de sécurité pour ne pas coller au menu ou au contenu */
+  display: block;        /* Garantit que le footer se comporte comme un bloc complet */
+  width: 100%;           /* Prend toute la largeur pour bien s'aligner en bas */
 }
 
 /* --- STYLE DES DRAPEAUX --- */
