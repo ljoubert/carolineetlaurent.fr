@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practical Info
-rank: 5
+rank: 4
 lang: en
 ---
 
