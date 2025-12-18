@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Praktische Infos
-rank: 5
+rank: 4
 lang: de
 ---
 
