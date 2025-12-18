@@ -17,3 +17,13 @@ Wir wären Euch dankbar, wenn Ihr Eure Teilnahme vor dem 28. Februar 2026 über 
 Wir freuen uns auf Euch!
 
 Caroline & Laurent
+
+<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
+  ⌛ Nur noch <span id="count-de">?</span> Tage bis zum großen Tag!
+</div>
+
+<script>
+  const targetDe = new Date('2026-08-22');
+  const diffDe = Math.ceil((targetDe - new Date()) / (1000 * 60 * 60 * 24));
+  document.getElementById('count-de').innerText = diffDe > 0 ? diffDe : 0;
+</script>
