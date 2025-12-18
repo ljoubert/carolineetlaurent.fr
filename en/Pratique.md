@@ -12,6 +12,7 @@ Some practical information to help you prepare for your visit.
 ### Weather
 
 August is the warmest month of the year with the least rainfall: the average daytime temperature is around 19°C with a maximum of 29°C. 
+
 However, the Plateau de Millevaches is located at an altitude of 700m, which means nights can be cool. Remember to bring a sweater or a light jacket.
 
 ### Dress code
