@@ -23,7 +23,3 @@ Voici le programme prévisionnel de la cérémonie
  * 🥨 **19h00** : Collation
  * 🎶 **21h00** : Soirée dansante
 
----
-
-### **Lendemain de fête** : dimanche 23 août 2026
- * 🥐 **À partir de 11h** : Brunch
