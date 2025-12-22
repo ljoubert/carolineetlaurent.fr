@@ -11,6 +11,8 @@ lang: cn
 * 地点 : Le Patural 23460 Saint-Marc à Loubaud
 * 地理坐标 : 45°51'01.6"N 2°00'31.0"E
 
+在当地，如果没有交通工具，出行会比较困难。如果您需要行程安排方面的协助，请在报名表中注明。
+
 🚗 自驾前往：请使用 <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> 或 <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a> 设置 GPS 导航。
 
 🚈 乘火车前往：
