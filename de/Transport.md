@@ -11,6 +11,8 @@ Hier ist der Ort der Zeremonie und des Empfangs:
 * Ort: Le Patural, 23460 Saint-Marc à Loubaud
 * GPS-Koordinaten: 45°51'01.6"N 2°00'31.0"E
 
+Es ist schwierig, sich vor Ort ohne eigenes Fahrzeug fortzubewegen. Bitte gebt Ihr im Anmeldeformular an, falls Sie Unterstützung bei der Organisation benötigen.
+
 🚗 Für diejenigen, die mit dem Auto kommen: Stellt Euer GPS mit <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> oder <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a> ein.
 
 🚈 Für diejenigen, die mit dem Zug kommen:
