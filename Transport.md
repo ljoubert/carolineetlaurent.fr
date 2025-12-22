@@ -10,6 +10,8 @@ Voici le lieu de la cérémonie et de la réception :
 * Localisation : Le Patural 23460 Saint-Marc à Loubaud
 * Coordonnées géographiques : 45°51'01.6"N 2°00'31.0"E
 
+Il est difficile de se déplacer sur place sans être motorisé. N'hésitez pas à vous déclarer dans le formulaire d'inscription si vous souhaitez une aide pour l'organisation.
+
 🚗 Pour ceux qui viennent en voiture : mettez le GPS avec <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> ou <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a>.
 
 
