@@ -11,6 +11,7 @@ Quelques informations pratiques pour préparer votre venue
 ### Météo
 
 Le mois d'août est le mois le plus chaud de l'année et avec le moins de précipitations : la température moyenne en journée est autour de 19°C avec un maximum à 29°C.
+
 Pour autant, le plateau des milles vaches se situe légèrement en altitude à 700m, ce qui fait que les nuits peuvent être fraîches. Pensez à prendre un pull ou une petite laine. 
 
 ### Dress code
