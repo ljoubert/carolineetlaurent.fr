@@ -12,8 +12,8 @@ Hier ist das vorläufige Programm der Feier.
 ### **Der große Tag**: Samstag, 22. August 2026
 
 **Zeremonie & Mittagessen**
- * 👋 **10:30 Uhr**: Empfang
- * 💍 **11:15 Uhr**: Trauung
+ * 👋 **10:15 Uhr**: Empfang
+ * 💍 **10:45 Uhr**: Trauung
  * 🥂 **13:00 Uhr**: Mittagessen
 
 **Entspannter Nachmittag**
