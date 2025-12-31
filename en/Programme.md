@@ -12,8 +12,8 @@ Here is the provisional schedule for the ceremony.
 ### **The Big Day**: Saturday, August 22, 2026
 
 **Ceremony & Lunch**
- * 👋 **10:30 AM**: Welcome
- * 💍 **11:15 AM**: Secular Ceremony
+ * 👋 **10:15 AM**: Welcome
+ * 💍 **10:45 AM**:  Ceremony
  * 🥂 **1:00 PM**: Lunch
 
 **Relaxing Afternoon**
