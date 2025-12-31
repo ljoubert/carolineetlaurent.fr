@@ -12,7 +12,8 @@ Nous vous conseillons de ne pas tarder à réserver...
 
 
 🏢 🏡 Voici les villes et villages les plus proches de Saint-Marc à Loubaud : 
- * Vallière (10 min de voiture) 
+ * Vallière (10 min de voiture)
+ * Gentioux (10 min)
  * Royère de Vassivière (20 min) 
  * Faux-la-Montagne (20 min)
  * Felletin (25 min)
