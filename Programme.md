@@ -11,8 +11,8 @@ Voici le programme prévisionnel de la cérémonie
 ### **Le Jour J** : samedi 22 août 2026
 
 **Cérémonie & Déjeuner**
- * 👋 **10h30** : Accueil
- * 💍 **11h15** : Cérémonie laïque
+ * 👋 **10h15** : Accueil
+ * 💍 **10h45** : Cérémonie laïque
  * 🥂 **13h00** : Déjeuner
 
 **Après-midi détente**
