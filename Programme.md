@@ -12,7 +12,7 @@ Voici le programme prévisionnel de la cérémonie
 
 **Cérémonie & Déjeuner**
  * 👋 **10h15** : Accueil
- * 💍 **10h45** : Cérémonie laïque
+ * 💍 **10h45** : Cérémonie 
  * 🥂 **13h00** : Déjeuner
 
 **Après-midi détente**
