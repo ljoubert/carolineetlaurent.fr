@@ -10,14 +10,19 @@ Voici le lieu de la cérémonie et de la réception :
 * Localisation : Le Patural 23460 Saint-Marc à Loubaud
 * Coordonnées géographiques : 45°51'01.6"N 2°00'31.0"E
 
-Il est difficile de se déplacer sur place sans être motorisé. N'hésitez pas à vous déclarer dans le formulaire d'inscription si vous souhaitez une aide pour l'organisation.
+Il est difficile de se déplacer sur place sans être motorisé. 
+N'hésitez pas à vous déclarer dans le formulaire d'inscription si vous souhaitez une aide pour l'organisation. 
+Nous vous recommandons de partir la veille (le 21), la ligne de train ayant souvent du retard. 
 
 🚗 Pour ceux qui viennent en voiture : mettez le GPS avec <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> ou <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a>.
 
-
 🚈 Pour ceux qui viennent en train : 
- * Gare de Limoges : puis bus jusqu'à Aubusson, ou voiture
- * Gare de la Souterraine: puis bus jusqu'à Aubusson, ou voiture
+  * Gare de la Souterraine: puis bus jusqu'à Aubusson, ou 1h15 de voiture
+  * Gare de Limoges : puis bus jusqu'à Aubusson, ou 1h25 de voiture
+
+Pour ceux qui n'ont pas d'autre option que de partir le jour même, nous vous recommandons le train au départ de Paris à 6h28 qui arrive à la Souterraine à 9h20.
+Attention les loueurs de voiture CarGo et Ada sont fermés les samedi et seul Leclerc et Carrefour sont ouverts avec un nombre limité de véhicule.
+Nous pourrons organiser un transport de la Souterraine jusqu'à St Marc à Loubaud le jour même si vous êtes plusieurs à retenir cette option, n'hésitez pas à nous l'indiquer dans le formulaire de réponse.
 
 🛫 Pour ceux qui viennent en avion : 
  * Paris pour tous les vols internationaux, puis train jusqu'à Limoges ou la Souterraine
