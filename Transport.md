@@ -15,7 +15,7 @@ N'hésitez pas à vous déclarer dans le formulaire d'inscription si vous souhai
  * Si vous avez le permis nous vous recommandons de louer un véhicule
  * Dans le cas contraire nous pourrons vous accompagner et vous orienter vers un hébergement dédié.
    
-Nous vous recommandons de partir la veille (le 21), la ligne de train ayant souvent du retard. 
+Nous vous recommandons de partir la veille (le 21), la ligne de train POLT (Paris, Orléans, Limoges, Toulouse) ayant souvent du retard. 
 
 🚗 Pour ceux qui viennent en voiture : mettez le GPS avec <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> ou <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a>.
 
