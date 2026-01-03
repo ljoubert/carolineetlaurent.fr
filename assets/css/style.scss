@@ -84,6 +84,18 @@ footer {
   }
 }
 
+/* Élargir le conteneur principal pour que le texte s'étende vers la droite */
+.wrapper {
+  max-width: 900px; /* Augmentez cette valeur selon vos besoins (par défaut elle est plus petite) */
+  margin: 0 auto;   /* Conserve le centrage de la page */
+}
+
+/* Optionnel : Ajuster la section de contenu pour occuper tout l'espace disponible */
+section {
+  width: 100%; 
+  padding-right: 50px; /* Réserve un petit espace pour que le texte ne touche pas les drapeaux */
+}
+
 footer {
     padding-top: 30px;
     text-align: center; /* Centre le texte sur mobile pour un look plus propre */
