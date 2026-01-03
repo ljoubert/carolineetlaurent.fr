@@ -24,8 +24,9 @@ Nous vous recommandons de partir la veille (le 21), la ligne de train POLT (Pari
   * Gare de Limoges : puis bus jusqu'à Aubusson, ou 1h25 de voiture
 
 Pour ceux qui n'ont pas d'autre option que de partir le jour même, nous vous recommandons le train au départ de Paris à 6h28 qui arrive à la Souterraine à 9h20.
-Attention les loueurs de voiture CarGo et Ada sont fermés les samedi et seul Leclerc et Carrefour sont ouverts avec un nombre limité de véhicule.
-Nous pourrons organiser un transport de la Souterraine jusqu'à St Marc à Loubaud le jour même si vous êtes plusieurs à retenir cette option, n'hésitez pas à nous l'indiquer dans le formulaire de réponse.
+Attention les loueurs de voiture CarGo et Ada sont fermés les samedi et seul <a href="https://www.location.leclerc/agences/nouvelle-aquitai/louer-la-souterraine?">Leclerc</a> et <a href="https://location.carrefour.fr/recherche/voitures/20/2026-08-21T17:00:00Z/2026-08-24T07:00:00Z?storeId=612&sort&segmentID=">Carrefour</a> sont ouverts avec un nombre limité de véhicule.
+
+Nous envisageons d'organiser un transport de la Souterraine jusqu'à St Marc à Loubaud le jour même si vous êtes plusieurs à retenir cette option, n'hésitez pas à nous l'indiquer dans le formulaire de réponse.
 
 🛫 Pour ceux qui viennent en avion : 
  * Paris pour tous les vols internationaux, puis train jusqu'à Limoges ou la Souterraine
