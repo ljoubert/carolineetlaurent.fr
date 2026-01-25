@@ -20,8 +20,6 @@ Nous vous conseillons de ne pas tarder à réserver...
  * Aubusson (30 min) 
  * Guéret (50 min, préfecture de la Creuse)
 
-Pour ceux qui ne seraient pas motorisés, nous avons pré-reservé les gites mis à disposition par la [mairie de Gentioux](https://gentioux-pigerolles.fr/location-de-gites/). Vous pouvez les contacter à mairie.gentioux<span class="nospam">RETIRER</span>@wanadoo.fr et indiquer que vous venez pour le mariage "JOUBERT" et préciser vos dates. Nous pourrons ainsi plus facilement organiser les transports et vous pourrez ainsi découvrir son [monument aux morts](https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles) qui maudit la guerre.
-
 🏨 **Hôtels & Hébergements**
 
 Voici quelques sites pour vous aider à trouver un hébergement :
@@ -29,6 +27,8 @@ Voici quelques sites pour vous aider à trouver un hébergement :
  * <a href="https://www.airbnb.fr/s/Saint~Marc~%C3%A0~Loubaud/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJbxp4EE2i-UcRB03KXlnK9FI&acp_id=1c8eb67b-5d1f-407a-b23f-3269f17bb58c&date_picker_type=calendar&checkin=2026-08-21&checkout=2026-08-23&adults=2&search_type=user_map_move&query=Saint-Marc-%C3%A0-Loubaud&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-12-01&monthly_length=3&monthly_end_date=2026-03-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&ne_lat=45.99445410863407&ne_lng=2.267043978742066&sw_lat=45.732743664849224&sw_lng=1.906264980103316&zoom=10.901473505032587&zoom_level=10.901473505032587&search_by_map=true" target="_blank" rel="noopener noreferrer">Airbnb.fr</a>
  * <a href="https://www.gites-de-france.com/fr/search?towns=44157&adults=2&children=0&infants=0&seed=9a794fb&arrival=2026-08-21&departure=2026-08-23" target="_blank" rel="noopener noreferrer">Gites de France</a>
  * <a href="https://www.cozycozy.com/fr/search/Saint-Marc-%C3%A0-Loubaud%2C%20France/2026-08-21/2026-08-23/1-2-0/results" target="_blank" rel="noopener noreferrer">CozyCozy.com</a>
+
+Pour ceux qui ne seraient pas motorisés, nous avons pré-reservé les gites mis à disposition par la [mairie de Gentioux](https://gentioux-pigerolles.fr/location-de-gites/). Vous pouvez les contacter à mairie.gentioux<span class="nospam">RETIRER</span>@wanadoo.fr et indiquer que vous venez pour le mariage "JOUBERT" et préciser vos dates. Nous pourrons ainsi plus facilement organiser les transports et vous pourrez ainsi découvrir son [monument aux morts](https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles) qui maudit la guerre.
 
 🏕️ **Campings & Camping-cars**
 
