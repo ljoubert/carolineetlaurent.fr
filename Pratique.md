@@ -22,16 +22,18 @@ Le terrain est majoritairement de la pelouse, nous vous recommandons d'éviter l
 
 ### Photos
 
-Voici un lien pour pouvoir partager les photos le jour J : <a href="https://photos.app.goo.gl/kiFhV3a9nQiExmr89">Mariage Caroline & Laurent</a>
+Voici un lien pour pouvoir partager les photos le jour J : <a href="https://photos.app.goo.gl/kiFhV3a9nQiExmr89" target="_blank" rel="noopener noreferrer">Mariage Caroline & Laurent</a>
 
 ### Tourisme
 
-Si vous souhaitez profiter du voyage pour découvrir ce magnifique département qu'est la Creuse, voici quelques suggestions de visite:
- * La cité internationale de la [tapisserie d'Aubusson](https://www.cite-tapisserie.fr/)
- * Les [loups de Chabrière](https://www.agglo-grandgueret.fr/au-quotidien/parc-animalier/)
- * Le domaine et la seigneurerie de [Banizette](https://www.banizette.com/)
- * La diamanterie de [Felletin](https://www.tourisme-creuse.com/offres/musee-lepopee-diamantaire-felletin-fr-1438704/)
+Si vous souhaitez profiter du voyage pour découvrir ce magnifique département qu'est la Creuse, voici quelques suggestions de visites :
+ * La cité internationale de la <a href="https://www.cite-tapisserie.fr/" target="_blank" rel="noopener noreferrer">tapisserie d'Aubusson</a>
+ * Les <a href="https://www.agglo-grandgueret.fr/au-quotidien/parc-animalier/" target="_blank" rel="noopener noreferrer">loups de Chabrière</a>
+ * Le domaine et la seigneurerie de <a href="https://www.banizette.com/" target="_blank" rel="noopener noreferrer">Banizette</a>
+ * La diamanterie de <a href="https://www.tourisme-creuse.com/offres/musee-lepopee-diamantaire-felletin-fr-1438704/" target="_blank" rel="noopener noreferrer">Felletin</a>
 
-C'est surtout l'occasion de découvrir le "Canada fraçais" avec [ses lacs et ses ballades](https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/sites-naturels/) (cliquez sur la fonctionnalité carte pour trouver les meilleures sites.
+C'est surtout l'occasion de découvrir le "Canada fraçais" avec <a href="https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/sites-naturels/" target="_blank" rel="noopener noreferrer">ses lacs et ses ballades</a> (cliquez sur la fonctionnalité carte pour trouver les meilleures sites.
    
-Vous trouverez plein d'autres idées sur le site de l'[office de tourisme](https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/)
+Vous trouverez plein d'autres idées sur le site de l'<a href="https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/"  target="_blank" rel="noopener noreferrer">office de tourisme</a>.
+
+<br>
