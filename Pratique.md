@@ -27,7 +27,7 @@ Voici un lien pour pouvoir partager les photos le jour J : <a href="https://phot
 ### Tourisme
 
 Si vous souhaitez profiter du voyage pour découvrir ce magnifique département qu'est la Creuse, voici quelques suggestions de visite:
- * La cité internationale de la [tapisserie](https://www.cite-tapisserie.fr/)
+ * La cité internationale de la [tapisserie d'Aubusson](https://www.cite-tapisserie.fr/)
  * Les [loups de Chabrière](https://www.agglo-grandgueret.fr/au-quotidien/parc-animalier/)
  * Le domaine et la seigneurerie de [Banizette](https://www.banizette.com/)
  * La diamanterie de [Felletin](https://www.tourisme-creuse.com/offres/musee-lepopee-diamantaire-felletin-fr-1438704/)
