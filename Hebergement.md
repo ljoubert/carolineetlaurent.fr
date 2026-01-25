@@ -35,8 +35,9 @@ Pour ceux qui souhaitent planter la tente, le camping municipal de Saint-Marc se
 
 D'autres campings se trouvent au bord du lac de Royère-Vassivière.
 <iframe style="width: 100%; height: 400px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/mariage-caroline-laurent_1320507?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=67327c53-67f1-4eef-9498-438f6c525901%2C992b3990-acab-4127-8d08-01882a097ade%2Ca3a9219a-3a85-40a1-8fea-7e971f91c4c8#12/45.8230/1.9154"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/mariage-caroline-laurent_1320507?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=67327c53-67f1-4eef-9498-438f6c525901%2C992b3990-acab-4127-8d08-01882a097ade%2Ca3a9219a-3a85-40a1-8fea-7e971f91c4c8#12/45.8230/1.9154">Voir en plein écran</a></p>
+
 Pour les campings cars, nous vous recommandons l'aire d'accueil des camping-cars à Royère de Vassière (derrière l'église), indiqué sur la carte ci-dessus.
 
+Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, voici le lien vers l'[office de tourisme](https://www.tourisme-creuse.com/) de la Creuse.
 
-Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, voici le lien vers l'<a href="https://www.tourisme-creuse.com/">office de tourisme</a> de la Creuse.
 
