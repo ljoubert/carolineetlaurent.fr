@@ -38,6 +38,6 @@ D'autres campings se trouvent au bord du lac de Royère-Vassivière.
 
 Pour les campings cars, nous vous recommandons l'aire d'accueil des camping-cars à Royère de Vassière (derrière l'église), indiqué sur la carte ci-dessus.
 
-Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, voici le lien vers l'[office de tourisme](https://www.tourisme-creuse.com/) de la Creuse.
+Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, vous trouverez plus d'informations dans la section Infos Pratiques.
 
 
