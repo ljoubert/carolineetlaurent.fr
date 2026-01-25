@@ -28,7 +28,7 @@ Voici quelques sites pour vous aider à trouver un hébergement :
  * <a href="https://www.gites-de-france.com/fr/search?towns=44157&adults=2&children=0&infants=0&seed=9a794fb&arrival=2026-08-21&departure=2026-08-23" target="_blank" rel="noopener noreferrer">Gites de France</a>
  * <a href="https://www.cozycozy.com/fr/search/Saint-Marc-%C3%A0-Loubaud%2C%20France/2026-08-21/2026-08-23/1-2-0/results" target="_blank" rel="noopener noreferrer">CozyCozy.com</a>
 
-Pour ceux qui ne seraient pas motorisés, nous avons pré-reservé les gites mis à disposition par la [mairie de Gentioux](https://gentioux-pigerolles.fr/location-de-gites/). Vous pouvez les contacter à mairie.gentioux<span class="nospam">RETIRER</span>@wanadoo.fr et indiquer que vous venez pour le mariage "JOUBERT" et préciser vos dates. Nous pourrons ainsi plus facilement organiser les transports et vous pourrez ainsi découvrir son [monument aux morts](https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles) qui maudit la guerre.
+Pour ceux qui ne seraient pas motorisés, nous avons pré-reservé les gites mis à disposition par la <a href="https://gentioux-pigerolles.fr/location-de-gites/" target="_blank" rel="noopener noreferrer">mairie de Gentioux</a>. Vous pouvez les contacter à mairie.gentioux<span class="nospam">RETIRER</span>@wanadoo.fr et indiquer que vous venez pour le mariage "JOUBERT" et préciser vos dates. Nous pourrons ainsi plus facilement organiser les transports et vous pourrez ainsi découvrir son <a href="https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles" target="_blank" rel="noopener noreferrer">monument aux morts</a> qui maudit la guerre.
 
 🏕️ **Campings & Camping-cars**
 
@@ -40,6 +40,6 @@ D'autres campings se trouvent au bord du lac de Royère-Vassivière.
 
 Pour les campings cars, nous vous recommandons l'aire d'accueil des camping-cars à Royère de Vassière (derrière l'église), indiqué sur la carte ci-dessus.
 
-Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, vous trouverez plus d'informations dans la section Infos Pratiques.
+Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, vous trouverez plus d'informations dans la section <a href="https://www.carolineetlaurent.fr/Pratique.html">Infos Pratiques</a>.
 
 
