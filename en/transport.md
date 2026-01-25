@@ -12,12 +12,16 @@ Here is the location of the ceremony and reception:
 * GPS Coordinates: 45°51'01.6"N 2°00'31.0"E
 
 It is difficult to get around the area without a vehicle. Please feel free to indicate in the registration form if you require assistance with travel arrangements.
+* If you have a driver's license, we highly recommend renting a vehicle.
+* Otherwise, we can assist you and guide you toward dedicated accommodation.
+
+We recommend arriving the day before (August 21st), as the POLT train line (Paris, Orléans, Limoges, Toulouse) is frequently delayed.
 
 🚗 For those coming by car: set your GPS with <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> or <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a>.
 
 🚈 For those coming by train:
- * Limoges Station: then bus to Aubusson, or car rental
- * La Souterraine Station: then bus to Aubusson, or car rental
+ * La Souterraine Station: then bus to Aubusson, or 1h15 by car.
+ * Limoges Station: then bus to Aubusson, or 1h25 by car.
 
 🛫 For those coming by plane:
  * Paris for all international flights, then train to Limoges or La Souterraine
