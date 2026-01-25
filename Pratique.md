@@ -24,3 +24,14 @@ Le terrain est majoritairement de la pelouse, nous vous recommandons d'éviter l
 
 Voici un lien pour pouvoir partager les photos le jour J : <a href="https://photos.app.goo.gl/kiFhV3a9nQiExmr89">Mariage Caroline & Laurent</a>
 
+### Tourisme
+
+Si vous souhaitez profiter du voyage pour découvrir ce magnifique département qu'est la Creuse, voici quelques suggestions de visite:
+ * La cité internationale de la [tapisserie](https://www.cite-tapisserie.fr/)
+ * Les [loups de Chabrière](https://www.agglo-grandgueret.fr/au-quotidien/parc-animalier/)
+ * Le domaine et la seigneurerie de [Banizette](https://www.banizette.com/)
+ * La diamanterie de [Felletin](https://www.tourisme-creuse.com/offres/musee-lepopee-diamantaire-felletin-fr-1438704/)
+
+C'est surtout l'occasion de découvrir le "Canada fraçais" avec [ses lacs et ses ballades](https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/sites-naturels/) (cliquez sur la fonctionnalité carte pour trouver les meilleures sites.
+   
+Vous trouverez plein d'autres idées sur le site de l'[office de tourisme](https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/)
