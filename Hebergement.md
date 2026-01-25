@@ -42,4 +42,4 @@ Pour les campings cars, nous vous recommandons l'aire d'accueil des camping-cars
 
 Pour ceux qui souhaiteraient profiter de leur venue en Creuse pour découvrir le département, vous trouverez plus d'informations dans la section <a href="https://www.carolineetlaurent.fr/Pratique.html">Infos Pratiques</a>.
 
-
+<br>
