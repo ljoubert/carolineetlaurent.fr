@@ -32,7 +32,7 @@ Si vous souhaitez profiter du voyage pour découvrir ce magnifique département 
  * Le domaine et la seigneurerie de <a href="https://www.banizette.com/" target="_blank" rel="noopener noreferrer">Banizette</a>
  * La diamanterie de <a href="https://www.tourisme-creuse.com/offres/musee-lepopee-diamantaire-felletin-fr-1438704/" target="_blank" rel="noopener noreferrer">Felletin</a>
 
-C'est surtout l'occasion de découvrir le "Canada fraçais" avec <a href="https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/sites-naturels/" target="_blank" rel="noopener noreferrer">ses lacs et ses ballades</a> (cliquez sur la fonctionnalité carte pour trouver les meilleures sites.
+C'est surtout l'occasion de découvrir le "Canada fraçais" avec <a href="https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/sites-naturels/" target="_blank" rel="noopener noreferrer">ses lacs et ses balades</a> (cliquez sur la fonctionnalité carte pour trouver les meilleures sites.
    
 Vous trouverez plein d'autres idées sur le site de l'<a href="https://www.tourisme-creuse.com/toute-la-creuse/decouvrir/sites-a-visiter/"  target="_blank" rel="noopener noreferrer">office de tourisme</a>.
 
