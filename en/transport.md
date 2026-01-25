@@ -23,6 +23,11 @@ We recommend arriving the day before (August 21st), as the POLT train line (Pari
  * La Souterraine Station: then bus to Aubusson, or 1h15 by car.
  * Limoges Station: then bus to Aubusson, or 1h25 by car.
 
+For those with no option but to travel on the big day, we recommend the 6:28 AM train from Paris, arriving at La Souterraine at 9:20 AM.
+Please note that CarGo and Ada rental agencies are closed on Saturdays; only <a href="https://www.location.leclerc/agences/nouvelle-aquitai/louer-la-souterraine?" target="_blank" rel="noopener noreferrer">Leclerc</a> and <a href="https://location.carrefour.fr/recherche/voitures/20/2026-08-21T17:00:00Z/2026-08-24T07:00:00Z?storeId=612&sort&segmentID=" target="_blank" rel="noopener noreferrer">Carrefour</a> are open with a limited number of vehicles.
+
+We are considering organizing transport from La Souterraine to St Marc à Loubaud on Saturday if several of you choose this option. Please let us know in the response form.
+
 🛫 For those coming by plane:
  * Paris for all international flights, then train to Limoges or La Souterraine
  * Limoges from London, then bus to Aubusson or car rental
