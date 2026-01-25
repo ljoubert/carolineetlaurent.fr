@@ -17,7 +17,7 @@ N'hésitez pas à vous déclarer dans le formulaire d'inscription si vous souhai
    
 Nous vous recommandons de partir la veille (le 21), la ligne de train POLT (Paris, Orléans, Limoges, Toulouse) ayant souvent du retard. 
 
-🚗 Pour ceux qui viennent en voiture : mettez le GPS avec <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588">Google Maps</a> ou <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes">Waze</a>.
+🚗 Pour ceux qui viennent en voiture : mettez le GPS avec <a href="https://www.google.com/maps/dir/?api=1&destination=45.850421,2.008588" target="_blank" rel="noopener noreferrer">Google Maps</a> ou <a href="https://waze.com/ul?ll=45.850421,2.008588&navigate=yes" target="_blank" rel="noopener noreferrer">Waze</a>.
 
 🚈 Pour ceux qui viennent en train : 
   * Gare de la Souterraine: puis bus jusqu'à Aubusson, ou 1h15 de voiture
