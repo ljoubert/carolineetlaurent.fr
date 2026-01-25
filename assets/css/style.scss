@@ -43,7 +43,7 @@ footer {
   padding-top: 10px;
   margin-top: 50px;      /* Ajoute une marge de sécurité pour ne pas coller au menu ou au contenu */
   text-align: right;
-  right: 20px; /* Aligne le texte sur la même colonne que les drapeaux */
+  padding-right: 20px;   /* Aligne le texte sur la même colonne que les drapeaux */
   display: block;        /* Garantit que le footer se comporte comme un bloc complet */
   width: 100%;           /* Prend toute la largeur pour bien s'aligner en bas */
 }
