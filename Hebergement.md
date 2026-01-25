@@ -20,6 +20,8 @@ Nous vous conseillons de ne pas tarder à réserver...
  * Aubusson (30 min) 
  * Guéret (50 min, préfecture de la Creuse)
 
+Pour ceux qui ne seraient pas motorisés, nous avons pré-reservé les gites mis à disposition par la [mairie de Gentioux](https://gentioux-pigerolles.fr/location-de-gites/). Vous pouvez les contacter à mairie.gentioux<span class="nospam">RETIRER</span>@wanadoo.fr et indiquer que vous venez pour le mariage "JOUBERT" et préciser vos dates. Nous pourrons ainsi plus facilement organiser les transports et vous pourrez ainsi découvrir son [monument aux morts](https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles) qui maudit la guerre.
+
 🏨 **Hôtels & Hébergements**
 
 Voici quelques sites pour vous aider à trouver un hébergement :
