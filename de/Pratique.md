@@ -7,7 +7,7 @@ lang: de
 
 ## Praktische Informationen
 
-Ein paar praktische Informationen zur Vorbereitung auf Ihren Besuch.
+Ein paar praktische Informationen zur Vorbereitung auf ihren Besuch.
 
 ### Wetter
 
