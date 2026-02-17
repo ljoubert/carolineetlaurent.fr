@@ -19,7 +19,7 @@ We can't wait to see you!
 Caroline & Laurent
 
 <div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
-  ⌛ Only <span id="count-en">?</span> days until the big day!
+  ⌛ Only <span id="count-en">?</span> days until the celebration!
 </div>
 
 <script>
