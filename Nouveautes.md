@@ -11,6 +11,11 @@ Retrouvez ici toutes les mises à jour et les nouvelles informations ajoutées s
 
 ---
 
+### 17 Février 2026
+* Ajout d'une liste de mariage sur la page Infos pratiques
+  
+---
+
 ### 25 Janvier 2026
 * **Hébergement** : Ajout d'options spécifiques et de conseils pour les invités ne disposant pas de véhicule.
 * **Tourisme** : Mise à jour de la section pratique avec des idées de visites et de découvertes dans la Creuse pour ceux qui souhaitent prolonger leur séjour.
