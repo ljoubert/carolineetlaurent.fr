@@ -28,6 +28,8 @@ Here are some sites to help you find accommodation:
  * <a href="https://www.gites-de-france.com/fr/search?towns=44157&adults=2&children=0&infants=0&seed=9a794fb&arrival=2026-08-21&departure=2026-08-23" target="_blank" rel="noopener noreferrer">Gites de France</a>
  * <a href="https://www.cozycozy.com/fr/search/Saint-Marc-%C3%A0-Loubaud%2C%20France/2026-08-21/2026-08-23/1-2-0/results" target="_blank" rel="noopener noreferrer">CozyCozy.com</a>
 
+ For those without a car, we have pre-booked the gîtes provided by the <a href="https://gentioux-pigerolles.fr/location-de-gites/" target="_blank" rel="noopener noreferrer">Gentioux town hall</a>. You can contact them at mairie.gentioux<span class="nospam">REMOVE</span>@wanadoo.fr, mentioning that you are coming for the "JOUBERT" wedding and specifying your dates. This will help us organize transport more easily, and you can discover its <a href="https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles" target="_blank" rel="noopener noreferrer">war memorial</a> which curses war.
+
 🏕️ **Campsites & Campervans**
 
 For those who wish to pitch a tent, the municipal campsite of Saint-Marc is located 5 min from Le Patural, on the shores of Lake Lavaud-Gelade.
