@@ -20,6 +20,11 @@ Il n'y a pas de couleur spécifique de prévue pour le mariage. Vous êtes beaux
 
 Le terrain est majoritairement de la pelouse, nous vous recommandons d'éviter les talons surtout si le sol est humide.
 
+### Liste de mariage
+
+Votre présence en Creuse est un cadeau en soi. Si vous souhaitez nous gâter davantage vous trouverez notre liste de mariage en ligne sur <a href="https://www.millemercismariage.com/carolineetlaurentj/liste.html" target="_blank" rel="noopener noreferrer">Mille merci mariage</a>.
+
+
 ### Photos
 
 Voici un lien pour pouvoir partager les photos le jour J : <a href="https://photos.app.goo.gl/kiFhV3a9nQiExmr89" target="_blank" rel="noopener noreferrer">Mariage Caroline & Laurent</a>
