@@ -26,6 +26,8 @@ lang: cn
  * <a href="https://www.airbnb.fr/s/Saint~Marc~%C3%A0~Loubaud/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJbxp4EE2i-UcRB03KXlnK9FI&acp_id=1c8eb67b-5d1f-407a-b23f-3269f17bb58c&date_picker_type=calendar&checkin=2026-08-21&checkout=2026-08-23&adults=2&search_type=user_map_move&query=Saint-Marc-%C3%A0-Loubaud&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-12-01&monthly_length=3&monthly_end_date=2026-03-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&ne_lat=45.99445410863407&ne_lng=2.267043978742066&sw_lat=45.732743664849224&sw_lng=1.906264980103316&zoom=10.901473505032587&zoom_level=10.901473505032587&search_by_map=true">Airbnb.fr</a>
  * <a href="https://www.cozycozy.com/fr/search/Saint-Marc-%C3%A0-Loubaud%2C%20France/2026-08-21/2026-08-23/1-2-0/results">CozyCozy.com</a>
 
+对于没有交通工具的宾客，我们预订了由 <a href="https://gentioux-pigerolles.fr/location-de-gites/" target="_blank" rel="noopener noreferrer">Gentioux 市政府</a>提供的民宿。您可以发送邮件至 mairie.gentioux<span class="nospam">REMOVE</span>@wanadoo.fr 联系他们，并说明您是来参加 “JOUBERT” 婚礼的，同时注明您的入住日期。这样我们将更容易安排交通，您也可以顺便参观当地那座<a href="https://fr.wikipedia.org/wiki/Monument_aux_morts_de_Gentioux-Pigerolles" target="_blank" rel="noopener noreferrer">谴责战争的阵亡将士纪念碑</a>。
+
 🏕️ **露营地与房车**
 
 对于那些希望搭帐篷的人，Saint-Marc 的市政露营地距离 Le Patural 仅 5 分钟路程，位于 Lavaud-Gelade 湖畔。
