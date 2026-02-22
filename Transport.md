@@ -29,9 +29,9 @@ Attention les loueurs de voiture CarGo et Ada sont fermés les samedi et seul <a
 Nous envisageons d'organiser un transport de la Souterraine jusqu'à St Marc à Loubaud le jour même si vous êtes plusieurs à retenir cette option, n'hésitez pas à nous l'indiquer dans le formulaire de réponse.
 
 🛫 Pour ceux qui viennent en avion : 
- * Paris pour tous les vols internationaux, puis train jusqu'à Limoges ou la Souterraine
- * Limoges depuis Londres, puis bus jusqu'à Aubusson ou voiture
- * Clermont-Ferrand depuis Londres, puis bus jusqu'à Aubusson ou voiture
+ * Paris pour tous les vols internationaux, puis avion jusqu'à Limoges ou train jusqu'à la Souterraine
+ * Limoges depuis [Paris](https://www.kayak.fr/flights/PAR-LIG/2026-08-21/2026-08-23?sort=bestflight_a) (1 seul vol par jour par [Volotea](https://book.volotea.com/search), départ à 20h35, arrivée 21h40)ou [Londres](https://www.kayak.fr/flights/LON-LIG/2026-08-21/2026-08-23?sort=bestflight_a), puis bus jusqu'à Aubusson ou voiture
+ * Clermont-Ferrand depuis [Londres](https://www.kayak.fr/flights/LON-CFE/2026-08-21/2026-08-23?sort=bestflight_a), puis bus jusqu'à Aubusson ou voiture
 
 <br>
 <iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/mariage-caroline-laurent_1320507?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=992b3990-acab-4127-8d08-01882a097ade%2Ca3a9219a-3a85-40a1-8fea-7e971f91c4c8"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/mariage-caroline-laurent_1320507?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=992b3990-acab-4127-8d08-01882a097ade%2Ca3a9219a-3a85-40a1-8fea-7e971f91c4c8">Voir en plein écran</a></p>
