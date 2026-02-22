@@ -30,7 +30,7 @@ Nous envisageons d'organiser un transport de la Souterraine jusqu'à St Marc à 
 
 🛫 Pour ceux qui viennent en avion : 
  * Paris pour tous les vols internationaux, puis avion jusqu'à Limoges ou train jusqu'à la Souterraine
- * Limoges depuis [Paris](https://www.kayak.fr/flights/PAR-LIG/2026-08-21/2026-08-23?sort=bestflight_a) (1 seul vol par jour par [Volotea](https://book.volotea.com/search), départ à 20h35, arrivée 21h40)ou [Londres](https://www.kayak.fr/flights/LON-LIG/2026-08-21/2026-08-23?sort=bestflight_a), puis bus jusqu'à Aubusson ou voiture
+ * Limoges depuis [Paris](https://www.kayak.fr/flights/PAR-LIG/2026-08-21/2026-08-23?sort=bestflight_a) (1 seul vol par jour par [Volotea](https://book.volotea.com/search), départ à 20h35, arrivée 21h40) ou [Londres](https://www.kayak.fr/flights/LON-LIG/2026-08-21/2026-08-23?sort=bestflight_a), puis bus jusqu'à Aubusson ou voiture
  * Clermont-Ferrand depuis [Londres](https://www.kayak.fr/flights/LON-CFE/2026-08-21/2026-08-23?sort=bestflight_a), puis bus jusqu'à Aubusson ou voiture
 
 <br>
