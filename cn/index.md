@@ -18,8 +18,8 @@ permalink: /cn/
 
 Caroline & Laurent
 
-<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
-  ⌛ 距离大喜日子还有 <span id="count-cn">?</span> 天！
+<div class="countdown">
+  ⌛ 距离大喜日子还有 <span id="count-cn" class="countdown-number">?</span> 天！
 </div>
 
 <script>

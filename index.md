@@ -18,8 +18,8 @@ Nous avons hâte de vous retrouver !
 
 Caroline & Laurent
 
-<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
-  ⌛ Plus que <span id="count-fr">?</span> jours avant la fête !
+<div class="countdown">
+  ⌛ Plus que <span id="count-fr" class="countdown-number">?</span> jours avant la fête !
 </div>
 
 <script>

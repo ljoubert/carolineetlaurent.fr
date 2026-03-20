@@ -18,8 +18,8 @@ Wir freuen uns auf Euch!
 
 Caroline & Laurent
 
-<div style="text-align: center; margin: 30px 0; color: #2e7bcf;">
-  ⌛ Nur noch <span id="count-de">?</span> Tage bis zum großen Tag!
+<div class="countdown">
+  ⌛ Nur noch <span id="count-de" class="countdown-number">?</span> Tage bis zum großen Tag!
 </div>
 
 <script>

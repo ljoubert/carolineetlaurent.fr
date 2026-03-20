@@ -3,7 +3,57 @@
 
 @import "{{ site.theme }}";
 
-/* Supprime les puces et les marges par défaut de la liste */
+/* ===========================
+   TYPOGRAPHIE - Google Fonts
+   =========================== */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Lato:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+}
+
+/* ===========================
+   CONTENEUR PRINCIPAL
+   =========================== */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ===========================
+   EN-TÊTE
+   =========================== */
+header h1 a {
+  font-family: 'Playfair Display', serif !important;
+  font-style: italic;
+  color: #5a7860 !important;
+  text-decoration: none !important;
+}
+
+header p {
+  font-size: 0.9em;
+  color: #777;
+  font-style: italic;
+}
+
+.header-divider {
+  text-align: center;
+  color: #c9a84c;
+  font-size: 14px;
+  letter-spacing: 6px;
+  margin: 10px 0 14px;
+  opacity: 0.8;
+}
+
+/* ===========================
+   MENU DE NAVIGATION
+   =========================== */
 .nav-menu {
   list-style: none;
   padding: 0;
@@ -14,85 +64,136 @@
   margin-bottom: 2px;
 }
 
-/* Style de base des liens du menu */
 .nav-menu li a {
-  display: block;           
-  padding: 6px 15px;       
-  text-decoration: none;    
-  border-radius: 5px;       
-  color: #2e7bcf;           
-  transition: background 0.3s; 
+  display: block;
+  padding: 6px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #5a7860;
+  font-weight: 400;
+  transition: background 0.25s, color 0.25s;
 }
 
-/* Effet au survol (Hover) */
 .nav-menu li a:hover {
-  background-color: #f0f0f0; 
-  color: #1a5a9f;            
+  background-color: #f0f5f1;
+  color: #3d5c42;
 }
 
-/* Style de la page active */
 .nav-menu li a.active {
-  background-color: #eef4ff; 
-  color: #2e7bcf;            
-  font-weight: bold;         
-  border-left: 4px solid #2e7bcf; 
+  background-color: #eaf2eb;
+  color: #3d5c42;
+  font-weight: 700;
+  border-left: 4px solid #7a9e82;
 }
 
-footer {
-  clear: both;           /* Force le footer à descendre sous tous les éléments flottants (menu et contenu) */
-  padding-top: 10px;
-  margin-top: 50px;      /* Ajoute une marge de sécurité pour ne pas coller au menu ou au contenu */
-  text-align: right;
-  padding-right: 20px;   /* Aligne le texte sur la même colonne que les drapeaux */
-  display: block;        /* Garantit que le footer se comporte comme un bloc complet */
-  width: 100%;           /* Prend toute la largeur pour bien s'aligner en bas */
-}
-
-/* --- STYLE DES DRAPEAUX --- */
+/* ===========================
+   DRAPEAUX DE LANGUE
+   =========================== */
 .lang-switch {
-  position: absolute; /* Place les drapeaux hors du flux normal */
-  top: 15px;          /* Distance du haut */
-  right: 20px;        /* Distance de la droite */
-  font-size: 28px;    /* Taille des émojis */
-  z-index: 1000;      /* S'assure qu'ils sont au-dessus du reste */
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 26px;
+  z-index: 1000;
   line-height: 1;
 }
 
 .lang-switch a {
-  text-decoration: none !important; /* Enlève le soulignement bleu */
-  margin-left: 8px;      /* Espace entre les drapeaux */
-  opacity: 0.6;          /* Légèrement transparent par défaut */
+  text-decoration: none !important;
+  margin-left: 8px;
+  opacity: 0.45;
   transition: opacity 0.2s, transform 0.2s;
   display: inline-block;
-  border: none;          /* Sécurité supplémentaire */
+  border: none;
 }
 
 .lang-switch a:hover {
-  opacity: 1;            /* Pleinement visible au survol */
-  transform: scale(1.2); /* Léger grossissement au survol */
-  background: none;      /* Pas de fond gris au survol */
+  opacity: 1;
+  transform: scale(1.2);
+  background: none;
 }
 
-/* Ajustement pour mobile (écrans < 800px) */
+.lang-switch a.active {
+  opacity: 1;
+  transform: scale(1.15);
+  filter: drop-shadow(0 1px 4px rgba(90, 120, 96, 0.4));
+}
+
+/* Mobile */
 @media (max-width: 800px) {
   .lang-switch {
-    position: relative; /* Remet les drapeaux dans le flux normal */
+    position: relative;
     top: auto;
     right: auto;
-    text-align: center; /* Centre les drapeaux */
+    text-align: center;
     margin-bottom: 10px;
     width: 100%;
     padding: 10px 0;
   }
 }
 
-/* Élargir le conteneur principal pour que le texte s'étende vers la droite */
-.wrapper {
-  max-width: 900px; /* Augmentez cette valeur selon vos besoins (par défaut elle est plus petite) */
-  margin: 0 auto;   /* Conserve le centrage de la page */
+/* ===========================
+   COMPTE À REBOURS
+   =========================== */
+.countdown {
+  text-align: center;
+  margin: 40px 0;
+  padding: 22px 30px;
+  border: 1px solid #d4c4a0;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #fdfaf5 0%, #f8f3ea 100%);
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05em;
+  color: #7a5c3a;
+  box-shadow: 0 2px 10px rgba(201, 168, 76, 0.12);
 }
 
-/* Protection anti-spam pour les emails */
+.countdown .countdown-number {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #c9a84c;
+}
+
+/* ===========================
+   SECTIONS ET CONTENUS
+   =========================== */
+section h2 {
+  border-bottom: 1px solid #e8eeea;
+  padding-bottom: 6px;
+}
+
+section h3 {
+  color: #3d5c42;
+  margin-top: 24px;
+}
+
+section a {
+  color: #5a7860;
+}
+
+section a:hover {
+  color: #3d5c42;
+}
+
+/* ===========================
+   PIED DE PAGE
+   =========================== */
+footer {
+  clear: both;
+  padding-top: 10px;
+  margin-top: 50px;
+  text-align: right;
+  padding-right: 20px;
+  display: block;
+  width: 100%;
+  font-size: 0.82em;
+  color: #aaa;
+  font-style: italic;
+}
+
+/* ===========================
+   PROTECTION ANTI-SPAM
+   =========================== */
 .nospam {
   display: none;
 }
